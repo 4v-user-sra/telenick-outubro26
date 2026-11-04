@@ -1,0 +1,6 @@
+{
+  "name": "Telenick · Relatório de Mídia Paga Outubro 2026",
+  "description": "Relatório interativo e dinâmico de resultados de Meta Ads e Google Ads da Telenick (01 a 31 de outubro de 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
